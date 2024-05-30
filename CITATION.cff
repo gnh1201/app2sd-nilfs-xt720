@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Go"
+  given-names: "Namhyeon"
+  orcid: "https://orcid.org/0009-0006-8421-0911"
+title: "app2sd-nilfs-xt720"
+version: DOI
+doi: 10.5281/zenodo.11392312
+date-released: 2024-05-30
+url: "https://github.com/gnh1201/app2sd-nilfs-xt720"
