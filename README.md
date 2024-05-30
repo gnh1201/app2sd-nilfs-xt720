@@ -1,17 +1,16 @@
-# app2sd-nilfs-2010
-A study of the Enhance Motorola XT720 I/O performance
+# app2sd-nilfs-xt720
+This repository was created around October 2010 to improve the I/O performance of the Motorola XT720 smartphone. This example serves as a case study for explaining the future use of LKM (Linux Kernel Module).
 
-http://cafe.naver.com/androiders/531631
-
-그날의 추억을 위하여!
-
-모토로라의 고물을 날아다니게했던 주역들에게 바칩니다.
-
-# How to use
+## How to use
 1. Insert your sdcard
 2. Connect console on your Android device
 3. chmod +x ./install.sh
 4. run ./install.sh
 5. play your more fester smartphone.
 
-Thank you.
+## References
+* http://cafe.naver.com/androiders/531631
+
+## Contact me
+* ActivityPub [@catswords_oss@catswords.social](https://catswords.social/@catswords_oss)
+* abuse@catswords.net
