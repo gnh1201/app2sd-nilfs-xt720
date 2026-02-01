@@ -1,4 +1,6 @@
 # app2sd-nilfs-xt720
+[![Discord chat](https://img.shields.io/discord/359930650330923008?logo=discord)](https://discord.gg/yyxMyucn8C?utm_source=catswords)
+
 This repository was created around October 2010 to improve the I/O performance of the Motorola XT720 smartphone. This example serves as a case study for explaining the future use of LKM (Linux Kernel Module).
 
 ## How to use
